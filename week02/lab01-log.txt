@@ -1,0 +1,82 @@
+    1  wsl --install -d Ubuntu
+    2  wsl --status
+    3  bash
+    4  pwd
+    5  ls -a
+    6  ls -l
+    7  bash
+    8  bash
+    9  pwd
+   10  ls -a
+   11  ls -l
+   12  ```bash
+   13  pwd
+   14  ls
+   15  ls -a
+   16  ls -l
+   17  ```
+   18  pwd
+   19  ;s
+   20  ls
+   21  ls
+   22  pwd
+   23  ls
+   24  ls --a
+   25  cd
+   26  pwd
+   27  ls -list
+   28  pwd
+   29  cd desktop
+   30  cd c
+   31  Bash
+   32  ls
+   33  pwd
+   34  ls
+   35  ls -a
+   36  ls -l
+   37  bash
+   38  pwd
+   39  ls
+   40  ls -a
+   41  pwd
+   42  ls
+   43  ls -a
+   44  ls -l
+   45  cd ~
+   46  mkdir -p coding-cafe/week01 coding-cafe/week02
+   47  touch coding-cafe/README.md
+   48  touch coding-cafe/week02/notes.md
+   49  ls coding-cafe/week02
+   50  ls -R coding-cafe
+   51  rm -f coding-cafe/week02/notes.mdd
+   52  touch coding-cafe/week02/notes.md
+   53  cd ~/coding-cafe
+   54  cp README.md README-backup.md
+   55  mv README-backup.md week01/
+   56  cd week01
+   57  mv README-backup.md old-readme.md
+   58  ls
+   59  rm old-readme.md
+   60  cd ~/coding-cafe
+   61  echo $PATH
+   62  which python3
+   63  which pip
+   64  which ls
+   65  pyton3
+   66  python3 -m venv .venv
+   67  sudo apt update && sudo apt install python3-venv
+   68  python3 -m venv .venv
+   69  ls
+   70  ls -a
+   71  source .venv/bin/activate
+   72  which python3
+   73  pip list
+   74  pip install requests
+   75  pip list
+   76  deactivate
+   77  which python3
+   78  man ls
+   79  python3
+   80  cd ~/coding-cafe
+   81  history > week02/lab01-log.txt
+   82  history > ~/coding-cafe/week02/lab01-log.txt
