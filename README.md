@@ -8,3 +8,5 @@ Lab work for Coding Café, FM102.
 - `lab4/` :- git and github
 - `lab5/` :- Potions, Libraries, and Ancient Scrolls
 - `lab6` :- Data Structures and CSV Files
+- `lab7` :- Objects, encapsulation, and abstraction
+- `lab8` :-The Royal Inheritance
